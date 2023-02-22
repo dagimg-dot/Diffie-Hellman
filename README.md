@@ -3,12 +3,12 @@ This is a python script to generate and check all the possible generators for a 
 
 # Usage
 ```
-python diffie-hellman.py
+python main.py
 ```
 
 # Example
 ```
-python diffie-hellman.py
+python main.py
 
 Enter the value of P: 23
 
